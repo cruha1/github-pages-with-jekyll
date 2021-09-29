@@ -1,13 +1,18 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Why Basketball Is The Best! 
+author: Cid The Kid
+email: cruha1@ocdsb.ca
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Basketball has been around for centuries all because one man decided to create a game for his university students. 
+  The brilliant James Naismith came up with basketball when he was teaching a gym class but thought that it would be fun to try something new.
+  Born in Almonte Naismith was a Canadian-American sports coach and innovator. 1891 was the year he came up with the greatest sport in history: Basketball.
+  He was also credited to inventing the first Football helmet. Now over 100 years later basketball is one of the most popular sports on the planet, 
+  all thanks to James naismith's curiosity to create something new and fun. And that is what basketball is all about. Having fun. 
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: cruha_8
+github_username: cruha1
+instagram_username: cruha_8
+tiktok_username: cruha_8
 
 show_excerpts: true # set to false to remove excerpts on the homepage
